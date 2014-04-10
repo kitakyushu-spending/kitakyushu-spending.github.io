@@ -45,8 +45,20 @@ OpenSpending.Styles.Cofog = {
   '10': { icon: 'icons/anchor.svg', color: '#C75746', bcolor: '#790586' },
   '1001': { icon: 'icons/anchor.svg', color: '#C75746', bcolor: '#790586' },
   '11': { icon: 'icons/manufactoring-construction.svg', color: '#C75746', bcolor: '#790586' },
+  '12': { icon: 'icons/manufactoring-construction.svg', color: '#C75746', bcolor: '#790586' },
+  '13': { icon: 'icons/schools.svg', color: '#C75746', bcolor: '#790586' },
+  '1301': { icon: 'icons/manufactoring-construction.svg', color: '#C75746', bcolor: '#790586' },
+  '1302': { icon: 'icons/manufactoring-construction.svg', color: '#C75746', bcolor: '#790586' },
+  '1303': { icon: 'icons/secondary-lower.svg', color: '#C75746', bcolor: '#790586' },
+  '1304': { icon: 'icons/secondary-upper.svg', color: '#C75746', bcolor: '#790586' },
+  '1305': { icon: 'icons/post-secondary.svg', color: '#C75746', bcolor: '#790586' },
+  '1306': { icon: 'icons/primary.svg', color: '#C75746', bcolor: '#790586' },
+  '1307': { icon: 'icons/pre-school.svg', color: '#C75746', bcolor: '#790586' },
+  '1308': { icon: 'icons/manufactoring-construction.svg', color: '#C75746', bcolor: '#790586' },
+  '1309': { icon: 'icons/manufactoring-construction.svg', color: '#C75746', bcolor: '#790586' },
+  '1310': { icon: 'icons/manufactoring-construction.svg', color: '#C75746', bcolor: '#790586' },
   '14': { icon: 'icons/pollution.svg', color: '#C75746', bcolor: '#790586' },
-  '14': { icon: 'icons/pollution.svg', color: '#C75746', bcolor: '#790586' }
+  '1401': { icon: 'icons/pollution.svg', color: '#C75746', bcolor: '#790586' }
 };
 
 
